@@ -29,5 +29,3 @@
 @interface FLEXShortcutsFactory (WebKit_Safari) @end
 
 @interface FLEXShortcutsFactory (Pasteboard) @end
-
-@interface FLEXShortcutsFactory (FirebaseFirestore) @end

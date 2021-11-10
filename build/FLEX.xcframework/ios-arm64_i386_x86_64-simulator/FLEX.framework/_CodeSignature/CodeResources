@@ -90,7 +90,7 @@
 		</data>
 		<key>Headers/FLEXIvar.h</key>
 		<data>
-		tGcogbqcEV7p+mhVl7Hira7OxoE=
+		eLvcT7nhCTDjsNILI8LrPrRh/Co=
 		</data>
 		<key>Headers/FLEXKeyValueTableViewCell.h</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Headers/FLEXMirror.h</key>
 		<data>
-		psBslmqDAbYXjBM1HZXUmnEamkg=
+		/I99kYwEvdm3DsV9ePjoTd2VvN8=
 		</data>
 		<key>Headers/FLEXMultilineTableViewCell.h</key>
 		<data>
@@ -174,7 +174,7 @@
 		</data>
 		<key>Headers/FLEXProtocol.h</key>
 		<data>
-		OtD+v25vUt2o7OiSet10Z8Um2y0=
+		mwRkaEfB2aSWTNYRBefBXq2J+Mk=
 		</data>
 		<key>Headers/FLEXProtocolBuilder.h</key>
 		<data>
@@ -194,11 +194,11 @@
 		</data>
 		<key>Headers/FLEXRuntimeConstants.h</key>
 		<data>
-		sOAsm6quV8VTXV7aH8gg21X/nkc=
+		YqzzLdpDhvxdnwpXbpxJr9O1nU0=
 		</data>
 		<key>Headers/FLEXRuntimeSafety.h</key>
 		<data>
-		lFjpzDqyGOLOLDVWv06TlPlW1UQ=
+		V1YusTWDHUQ1LtWnlOh9bnBilKw=
 		</data>
 		<key>Headers/FLEXScopeCarousel.h</key>
 		<data>
@@ -210,7 +210,7 @@
 		</data>
 		<key>Headers/FLEXShortcutsFactory+Defaults.h</key>
 		<data>
-		BOG9Z9mnI/VBTofTsJVtD9WaGFQ=
+		Ak3Ny2H2ArjOpCebJAmSUYFe9R0=
 		</data>
 		<key>Headers/FLEXShortcutsSection.h</key>
 		<data>
@@ -254,7 +254,7 @@
 		</data>
 		<key>Headers/NSArray+FLEX.h</key>
 		<data>
-		VbLLTuQ2mTqjO8AmdEWrklF2x70=
+		7U7QsNw9OmfpwOUpmZyj+oDEe6k=
 		</data>
 		<key>Headers/NSObject+FLEX_Reflection.h</key>
 		<data>
@@ -266,11 +266,11 @@
 		</data>
 		<key>Headers/NSUserDefaults+FLEX.h</key>
 		<data>
-		L+yVEqKsUVKOCbUfuIxy0Ll2YPM=
+		282LtTQ/LrZLz4stQZGmBvaB4dw=
 		</data>
 		<key>Headers/UIBarButtonItem+FLEX.h</key>
 		<data>
-		eaN8W6V7oaxbG7mmJmmd7ZlSnzo=
+		NdZTUoUM9riSlzlVfwqNklIJ79c=
 		</data>
 		<key>Headers/UIFont+FLEX.h</key>
 		<data>
@@ -358,7 +358,7 @@
 		</data>
 		<key>PrivateHeaders/FLEXDefaultEditorViewController.h</key>
 		<data>
-		tXNAnioheBQ+HrRdFlZONLpxlic=
+		QbmDFwzsm25B0aTHGF/j59Nmw8E=
 		</data>
 		<key>PrivateHeaders/FLEXFieldEditorView.h</key>
 		<data>
@@ -402,7 +402,7 @@
 		</data>
 		<key>PrivateHeaders/FLEXNetworkMITMViewController.h</key>
 		<data>
-		wK2tPHqrVZdK8Ot839g11u27S/o=
+		B9zBeK5BVlFxQJNNot6OdpJruUk=
 		</data>
 		<key>PrivateHeaders/FLEXNetworkObserver.h</key>
 		<data>
@@ -410,7 +410,7 @@
 		</data>
 		<key>PrivateHeaders/FLEXNetworkRecorder.h</key>
 		<data>
-		t4qryRKgn+qvfLUSndKE2O/FZ9Y=
+		+rk4nH2U0Z8MFvxDJbm7aInzxac=
 		</data>
 		<key>PrivateHeaders/FLEXNetworkSettingsController.h</key>
 		<data>
@@ -418,15 +418,19 @@
 		</data>
 		<key>PrivateHeaders/FLEXNetworkTransaction.h</key>
 		<data>
-		GHlclA7eotPv7jpV3IDuNHv0NLQ=
+		JKYEL2l/RQH8bfGM6oy7UESSjps=
 		</data>
 		<key>PrivateHeaders/FLEXNetworkTransactionCell.h</key>
 		<data>
-		61SCsSwS23JsDRDBqWZ0jtV9I6g=
+		zE23+/q/A5f9QzCgPY6fgEqI0Hg=
+		</data>
+		<key>PrivateHeaders/FLEXNetworkTransactionDetailController.h</key>
+		<data>
+		1d3m/aRpRHYQVcAVBHnvc8S60ns=
 		</data>
 		<key>PrivateHeaders/FLEXObjectListViewController.h</key>
 		<data>
-		gABorUsLfnO91gx/XAP4Y3GT2ig=
+		O13T4ix1s1t//dg418TbhgKdr6k=
 		</data>
 		<key>PrivateHeaders/FLEXSystemLogCell.h</key>
 		<data>
@@ -702,11 +706,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tGcogbqcEV7p+mhVl7Hira7OxoE=
+			eLvcT7nhCTDjsNILI8LrPrRh/Co=
 			</data>
 			<key>hash2</key>
 			<data>
-			kIA9Bun2gbmkWmLdklDC7BUFsLV+3AQKCWSD7TwcTcE=
+			NeKJeEjvdWQ2SpFMPkgvwJ9N2sNwQ+/u/YavhX778m8=
 			</data>
 		</dict>
 		<key>Headers/FLEXKeyValueTableViewCell.h</key>
@@ -812,11 +816,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			psBslmqDAbYXjBM1HZXUmnEamkg=
+			/I99kYwEvdm3DsV9ePjoTd2VvN8=
 			</data>
 			<key>hash2</key>
 			<data>
-			wXQJqhzlIMP5+tSIzQk7bDB3D8D0EjAXlNZ0ugTAtiM=
+			4Vgrg+THzxq1BBgmqw4RwWVRBjf6rZ3P9E9+2423p7Q=
 			</data>
 		</dict>
 		<key>Headers/FLEXMultilineTableViewCell.h</key>
@@ -933,11 +937,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OtD+v25vUt2o7OiSet10Z8Um2y0=
+			mwRkaEfB2aSWTNYRBefBXq2J+Mk=
 			</data>
 			<key>hash2</key>
 			<data>
-			+zKm+RDvZr9Cue35BBRCGGlVb5BGLr8jDAr2QdmUd4w=
+			+Mw5Z6YbCs7Rc0KWJ1eD7jRU91fWOxvB9sykKON5FrM=
 			</data>
 		</dict>
 		<key>Headers/FLEXProtocolBuilder.h</key>
@@ -988,22 +992,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sOAsm6quV8VTXV7aH8gg21X/nkc=
+			YqzzLdpDhvxdnwpXbpxJr9O1nU0=
 			</data>
 			<key>hash2</key>
 			<data>
-			QJ8FHy5hdGSnbe/zAC3NbD36d4HF9/MXAhWFVN+0lVQ=
+			soOwkg3RCbSWXaRaqvJ5JFteiDjzoHOYDz7y5oS7IZ4=
 			</data>
 		</dict>
 		<key>Headers/FLEXRuntimeSafety.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lFjpzDqyGOLOLDVWv06TlPlW1UQ=
+			V1YusTWDHUQ1LtWnlOh9bnBilKw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Zw/R+2WZvXvsL4hTCkG7NfDbEqQLUrNhZ00FKjNsfKw=
+			fbfnjqb9KkCmHSgkXkUEjEAXaUU9RcogLgDX31hZpms=
 			</data>
 		</dict>
 		<key>Headers/FLEXScopeCarousel.h</key>
@@ -1032,11 +1036,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BOG9Z9mnI/VBTofTsJVtD9WaGFQ=
+			Ak3Ny2H2ArjOpCebJAmSUYFe9R0=
 			</data>
 			<key>hash2</key>
 			<data>
-			rOpJn14T5qgDlS5wvID0tHscPWo7eeA+IgBOANjSWfU=
+			7ujlGnok8Hz6tnpinWU4wfF5BgaPV7BiNXXO2NInCs0=
 			</data>
 		</dict>
 		<key>Headers/FLEXShortcutsSection.h</key>
@@ -1153,11 +1157,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VbLLTuQ2mTqjO8AmdEWrklF2x70=
+			7U7QsNw9OmfpwOUpmZyj+oDEe6k=
 			</data>
 			<key>hash2</key>
 			<data>
-			wVNUEHyQ0kuTZInYgl2xUHxLXyM/djs8ZTtyY4nJyTQ=
+			EqbUeKq1YLLrteAS+/4t5IVr4EdZ6n7w+pEF8T3t0tw=
 			</data>
 		</dict>
 		<key>Headers/NSObject+FLEX_Reflection.h</key>
@@ -1186,22 +1190,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			L+yVEqKsUVKOCbUfuIxy0Ll2YPM=
+			282LtTQ/LrZLz4stQZGmBvaB4dw=
 			</data>
 			<key>hash2</key>
 			<data>
-			5o7ZX3z+WvBrVgGH9c1vEmz1Ali480xko32gFdnZMOQ=
+			Fcxcsuf+gYXEjXd//T1jf4G3+qdzbpXIGlqjXGFBtBs=
 			</data>
 		</dict>
 		<key>Headers/UIBarButtonItem+FLEX.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eaN8W6V7oaxbG7mmJmmd7ZlSnzo=
+			NdZTUoUM9riSlzlVfwqNklIJ79c=
 			</data>
 			<key>hash2</key>
 			<data>
-			xy5Rc8WwizKy25zDSCMYXS6NGgJl7MaZQS4sseUG9rA=
+			JuuNSSUH83GO7E7vgUQNI7rfl2xYZ8+wSvhUF9uQE3w=
 			</data>
 		</dict>
 		<key>Headers/UIFont+FLEX.h</key>
@@ -1428,11 +1432,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tXNAnioheBQ+HrRdFlZONLpxlic=
+			QbmDFwzsm25B0aTHGF/j59Nmw8E=
 			</data>
 			<key>hash2</key>
 			<data>
-			oZ8paxXjv60ypIYKoa0N2hs+raWAIeMv+mumGXyEfr0=
+			22PifK14mOaJIZoOpcQT0pfJDkRQn3y8bt+QuF/qgn4=
 			</data>
 		</dict>
 		<key>PrivateHeaders/FLEXFieldEditorView.h</key>
@@ -1549,11 +1553,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wK2tPHqrVZdK8Ot839g11u27S/o=
+			B9zBeK5BVlFxQJNNot6OdpJruUk=
 			</data>
 			<key>hash2</key>
 			<data>
-			fibBPdJV47Lystbs9WfeBkthfPAt/VfOpxHiAStQs+w=
+			/ABJ7DXrZlx/zC9fQRjoINz9oDb0jFzgvRyAkedMGjc=
 			</data>
 		</dict>
 		<key>PrivateHeaders/FLEXNetworkObserver.h</key>
@@ -1571,11 +1575,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			t4qryRKgn+qvfLUSndKE2O/FZ9Y=
+			+rk4nH2U0Z8MFvxDJbm7aInzxac=
 			</data>
 			<key>hash2</key>
 			<data>
-			EHRy/Bkt+u9an7ew2QTFi8n2weyTMgVzGGFqbq9K6bQ=
+			QFJAptwYEUg8HCE1D7ipwdHxWSA5I2q2tPL6TvewEIE=
 			</data>
 		</dict>
 		<key>PrivateHeaders/FLEXNetworkSettingsController.h</key>
@@ -1593,33 +1597,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GHlclA7eotPv7jpV3IDuNHv0NLQ=
+			JKYEL2l/RQH8bfGM6oy7UESSjps=
 			</data>
 			<key>hash2</key>
 			<data>
-			c7Ntik39m21eXOXSSezNQ0iFjD5Y5zmkSthv0cHnRB8=
+			Fcn+dMTF6rNM6pcT/fWGVttoS8+P8f1HxliLRctjyUI=
 			</data>
 		</dict>
 		<key>PrivateHeaders/FLEXNetworkTransactionCell.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			61SCsSwS23JsDRDBqWZ0jtV9I6g=
+			zE23+/q/A5f9QzCgPY6fgEqI0Hg=
 			</data>
 			<key>hash2</key>
 			<data>
-			vavUb8+tuSyEFfszpD31zlyXvR7bPyGNtXN+Xjpa8Dg=
+			Kys36hcSAHXameiNa7WD9AOoBApsJRw7V4elkort5Pc=
+			</data>
+		</dict>
+		<key>PrivateHeaders/FLEXNetworkTransactionDetailController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1d3m/aRpRHYQVcAVBHnvc8S60ns=
+			</data>
+			<key>hash2</key>
+			<data>
+			JkD8rkTdltYiyObECz9JsShrEM6r6ETpvd7OCSe/oV8=
 			</data>
 		</dict>
 		<key>PrivateHeaders/FLEXObjectListViewController.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gABorUsLfnO91gx/XAP4Y3GT2ig=
+			O13T4ix1s1t//dg418TbhgKdr6k=
 			</data>
 			<key>hash2</key>
 			<data>
-			DS5ehJYt/KtuYRqxN1wepa2cPP58rhwguxriTHTuuA8=
+			Tj6zhqPCtn1OPeeIkoDEOmV6ayA6s+H9t/XwV3W04sA=
 			</data>
 		</dict>
 		<key>PrivateHeaders/FLEXSystemLogCell.h</key>

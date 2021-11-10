@@ -29,8 +29,6 @@
 
 - (instancetype)flex_sortedUsingSelector:(SEL)selector;
 
-- (T)flex_firstWhere:(BOOL(^)(T obj))meetingCriteria;
-
 @end
 
 @interface NSMutableArray<T> (Functional)
